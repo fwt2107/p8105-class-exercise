@@ -1,4 +1,5 @@
 # p8105-class-exercise
-Hi This is my repository used for practicing using github
+This is my repository used for practicing using github
 
-Practicing with changing files
+## Subheader
+Practicing with changing files like the .md file
