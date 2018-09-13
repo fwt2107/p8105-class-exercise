@@ -1,2 +1,4 @@
 # p8105-class-exercise
-This is my repository used for practicing using github
+Hi This is my repository used for practicing using github
+
+Practicing with changing files
